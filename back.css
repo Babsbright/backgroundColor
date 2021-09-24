@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(255, 167, 180);
+    font-family: 'poppins';
+}
+
+.container{
+text-align: center;
+margin-top: 200px;
+}
+
+h2{
+    text-transform: capitalize;
+    color: rgb(245, 237, 237);
+}
+button{
+    padding: 5px;
+    width: 80px;
+    border: none;
+    background: rgb(224, 221, 222);
+    border-radius: 5px;
+}
